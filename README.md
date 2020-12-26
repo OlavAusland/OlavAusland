@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am a Software Engineer student, which has a goal of taking a PhD in Artificial Intelligence for now. Thus i will have a bachelor, master and PhD
+## Computer Engineer student with a goal of taking a Bachelor as a software engineer & a Artificial Intelligence Master and PhD.
 
 <!--
 **OlavAusland/OlavAusland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
