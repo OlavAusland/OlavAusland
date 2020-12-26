@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Computer Engineer student with a goal of taking a Bachelor as a software engineer & a Artificial Intelligence Master and PhD.
+## I'm a student & I love creating stuff with code, especially using Artificial Intelligence.
 
 <!--
 **OlavAusland/OlavAusland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
