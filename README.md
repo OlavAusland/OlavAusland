@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I'm a student & I love creating stuff with code, especially using Artificial Intelligence.
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olavausland&show_icons=true&theme=radical)
 <!--
 **OlavAusland/OlavAusland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
