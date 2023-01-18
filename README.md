@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 ## I'm a student & I love creating stuff with code, especially using Artificial Intelligence.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olavausland&show_icons=true&theme=radical)
 <!--
@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 -->
 
 ## Latest Projects
-🧠 ![LIDIC (Live Interactive Drone Imaging Control)](https://github.com/OlavAusland/LIDIC)
+### 🧠 ![LIDIC (Live Interactive Drone Imaging Control)](https://github.com/OlavAusland/LIDIC)
+#### This is a project where we used Computer Vision with machine learning to control a drone with a webcamera!📷
