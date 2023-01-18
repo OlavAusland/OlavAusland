@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Latest Projects
+🧠 ![LIDIC (Live Interactive Drone Imaging Control)](https://github.com/OlavAusland/LIDIC)
